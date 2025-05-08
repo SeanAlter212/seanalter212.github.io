@@ -1,3 +1,5 @@
-theme: hydejack
+remote_theme: pages-themes/slate@v0.2.0
 title: SeanAlter's homepage
 description: Bookmark this to keep an eye on my project updates!
+plugins:
+- jekyll-remote-theme
